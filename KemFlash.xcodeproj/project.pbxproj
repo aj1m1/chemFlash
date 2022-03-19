@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0730CB0327E565AF001442D8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0730CB0227E565AF001442D8 /* README.md */; };
 		074E20A227D38EC30048F352 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074E20A127D38EC30048F352 /* AppDelegate.swift */; };
 		074E20A427D38EC30048F352 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074E20A327D38EC30048F352 /* SceneDelegate.swift */; };
 		074E20A627D38EC30048F352 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074E20A527D38EC30048F352 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0730CB0227E565AF001442D8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		074E209E27D38EC30048F352 /* KemFlash.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KemFlash.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		074E20A127D38EC30048F352 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		074E20A327D38EC30048F352 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		074E20A027D38EC30048F352 /* KemFlash */ = {
 			isa = PBXGroup;
 			children = (
+				0730CB0227E565AF001442D8 /* README.md */,
 				074E20A127D38EC30048F352 /* AppDelegate.swift */,
 				074E20A327D38EC30048F352 /* SceneDelegate.swift */,
 				074E20A527D38EC30048F352 /* ViewController.swift */,
@@ -130,6 +133,7 @@
 			files = (
 				074E20AE27D38EC50048F352 /* LaunchScreen.storyboard in Resources */,
 				074E20AB27D38EC50048F352 /* Assets.xcassets in Resources */,
+				0730CB0327E565AF001442D8 /* README.md in Resources */,
 				074E20A927D38EC30048F352 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
